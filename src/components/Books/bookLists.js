@@ -4,7 +4,6 @@ const BookLists = () => {
     return (
         <>
           <Book />
-          <Book />
         </>
     )
 }
